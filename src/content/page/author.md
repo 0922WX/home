@@ -1,25 +1,27 @@
 ---
-title: "About the Author"
-description: "Learn more about the person behind Low Power Blog"
-image: "/images/sustainable.jpg"
+title: "关于"
+description: "更了解我吧"
+image: "/images/valley.jpg"
 ---
 
-# t3ma
+# 关于本人
 
-Hi! I'm t3ma, a low-power computing enthusiast and sustainability advocate. I focus on energy-efficient technology solutions and minimal computing practices.
+暂时是人类
 
-## My Journey
+## 关于如蜜(Majula)
 
-I started this blog in 2024 to explore and share knowledge about low-power computing, energy-efficient software, and sustainable technology practices. My goal is to demonstrate that powerful computing doesn't always require high energy consumption.
+黑暗之魂2中的休息场地,我非常喜欢的场景,所以我把博客也取名为如蜜(Majula)。
 
-## Expertise
+遗弃之地。
 
-- Low-power Computing
-- Energy-efficient Programming
-- Sustainable Technology
-- Minimal Computing
-- Green Software Development
+## 博客内容
 
-## Contact
+- 学习
+- 生活
+- 胡言乱语
 
-Feel free to reach out at https://temaprint.com for discussions about low-power computing and sustainable technology.
+
+## 目标
+
+坚持记录,对我来说这是不常有的事情。在热情消去前,我会用心对待的。
+这是我的旧博客地址https://0922wx.github.io/

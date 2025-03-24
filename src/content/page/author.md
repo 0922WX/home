@@ -20,6 +20,7 @@ image: "/images/valley.jpg"
 - 生活
 - 胡言乱语
 
+胡言乱语居多。
 
 ## 目标
 

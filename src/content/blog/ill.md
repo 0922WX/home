@@ -1,6 +1,6 @@
 ---
 title: "拖延"
-description: "为什么总是到deadline前才后悔呢"
+description: "等待完美时机，再让时间在空转中锈蚀成沙"
 image: "/images/sky.png"
 pubDate: 2025-03-18
 tags: ["胡言乱语"]

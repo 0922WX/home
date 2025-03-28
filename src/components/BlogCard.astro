@@ -13,8 +13,8 @@ const { title, description, image , pubDate} = Astro.props;
 	<img src={image} alt={title} />
 	<div class="content">
 		<h2>{title}</h2>
-		<!-- <p class="date">{pubDate.toLocaleDateString()}</p> -->
 		<p>{description}</p>
+		<p class="date">{pubDate.toLocaleDateString()}</p>
 	</div>
 </article>
 

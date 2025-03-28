@@ -3,7 +3,12 @@ import Layout from '../layouts/Layout.astro';
 import BlogCard from '../components/BlogCard.astro';
 import { getCollection } from 'astro:content';
 
-const posts = await getCollection('blog');
+// 获取并排序文章
+const posts = (await getCollection('blog'))
+  .sort((a, b) => 
+    new Date(b.data.pubDate).getTime() -  // 转换为时间戳比较
+    new Date(a.data.pubDate).getTime()
+  );
 ---
 
 <Layout title="Wx's Majula">

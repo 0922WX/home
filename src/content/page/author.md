@@ -6,7 +6,7 @@ image: "/images/valley.jpg"
 
 # 关于本人
 
-暂时是人类，尚未得志的人类。
+暂时是人类，尚未得志。
 
 ## 关于如蜜(Majula)
 

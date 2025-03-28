@@ -1,7 +1,7 @@
 ---
 title: "Gorm迁移数据库"
 description: "从无到有"
-image: "/images/kongque.jpg"
+image: "/images/golang.png"
 pubDate: 2025-03-26
 tags: ["Go学习"]
 ---

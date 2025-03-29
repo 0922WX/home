@@ -14,7 +14,11 @@ const { title, description, image , pubDate} = Astro.props;
 	<div class="content">
 		<h2>{title}</h2>
 		<p>{description}</p>
-		<!-- <p class="date">{pubDate.toLocaleDateString()}</p> -->
+		<p class="date">
+			{`
+				${pubDate.getFullYear().toString().slice(-4)}/${String(pubDate.getMonth() + 1).padStart(2, '0')}/${String(pubDate.getDate()).padStart(2, '0')}
+			`}
+		</p>
 	</div>
 </article>
 

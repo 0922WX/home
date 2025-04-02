@@ -1,6 +1,6 @@
 ---
 title: "打暑假工的经历"
-description: "决策如人机，最后悔的一集"
+description: "本该如此"
 image: "/images/market.png"
 pubDate: 2025-03-31
 tags: ["生活"]

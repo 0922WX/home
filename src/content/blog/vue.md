@@ -1,6 +1,6 @@
 ---
 title: "Vue面试题"
-description: "滥时文，烂如泥"
+description: "没啥用"
 image: "/images/wall.jpg"
 pubDate: 2025-04-02
 tags: ["Vue学习"]

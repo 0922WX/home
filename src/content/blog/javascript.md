@@ -3,7 +3,7 @@ title: "JavaScript中的隐式转换"
 description: "规则！"
 image: "/images/js.jpg"
 pubDate: 2025-03-19
-tags: ["Js学习"]
+tags: ["前端学习"]
 ---
 
 # 隐式转换

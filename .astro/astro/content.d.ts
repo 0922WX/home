@@ -232,6 +232,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"在博泰的日子.md": {
+	id: "在博泰的日子.md";
+  slug: "在博泰的日子";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "某个人.md": {
 	id: "某个人.md";
   slug: "某个人";

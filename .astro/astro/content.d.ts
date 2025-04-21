@@ -253,6 +253,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"简单学下mbox.md": {
+	id: "简单学下mbox.md";
+  slug: "简单学下mbox";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "酒.md": {
 	id: "酒.md";
   slug: "酒";
